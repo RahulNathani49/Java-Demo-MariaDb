@@ -1,0 +1,5 @@
+com\isimtl\animals\controllers\AnimalController.class
+com\isimtl\animals\models\Category.class
+com\isimtl\animals\repositories\AnimalRepository.class
+com\isimtl\animals\models\Animal.class
+com\isimtl\animals\services\AnimalService.class
